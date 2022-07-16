@@ -6,6 +6,7 @@ export default function Content() {
         <div class="corpo">
             <LeftContent />
             <SideBar />
+            <BottomMobile />
         </div>
     )
 }

@@ -1,4 +1,5 @@
 import NavBar from './NavBar';
+import Content from './Content';
 
 
 export default function App() {
@@ -6,7 +7,7 @@ export default function App() {
         <div>
             <NavBar />
             <Content />
-            <BottomMobile />
+            
         </div>
     )
 }

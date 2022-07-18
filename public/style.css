@@ -211,6 +211,10 @@
   .post:last-child {
     margin-bottom: 18px;
   }
+
+  .like ion-icon:first-child {
+    color: red
+  }
   
   .sidebar {
     padding-top: 24px;
